@@ -1,0 +1,29 @@
+_repo: Phebe-the-Blackberry-Girl_11147
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Livermore, Edward
+    alias: Livermore, E. (Edward)
+    birthdate: 1821
+    gutenberg_agent_id: '3864'
+    url: http://www.gutenberg.org/2009/agents/3864
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The blackberry girl, part I. -- The blackberry girl, part II. --
+  Good children -- Poor crazy Robert -- The pet lamb -- Father William and the young
+  man -- The little girl and her pets -- The flowers -- The child and the flowers
+  -- One, two, buckle my shoe -- Washing and dressing -- The industrious boy -- We
+  are seven -- The idle boy -- Casabianca -- Twinkle, twinkle, little star.
+title: Phebe, the Blackberry Girl
+url: http://www.gutenberg.org/ebooks/11147
